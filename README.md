@@ -51,8 +51,6 @@ Edita `.env` y reemplaza el valor con tu token real:
 HF_TOKEN=hf_xxxxxxxxxxxxxxxxxxxx
 ```
 
-El archivo `.env` está en `.gitignore` y nunca se sube al repositorio.
-
 ---
 
 ## Ejecutar los notebooks
