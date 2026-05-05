@@ -16,8 +16,7 @@ Repositorio personal con los ejercicios y notebooks del curso
 ## Requisitos
 
 - Python 3.10+
-- Una cuenta en [Hugging Face](https://huggingface.co) con un token de tipo **Read**
-  — puedes generarlo en [hf.co/settings/tokens](https://hf.co/settings/tokens)
+- Una cuenta en [Hugging Face](https://huggingface.co) con un token de tipo **Read**  [hf.co/settings/tokens](https://hf.co/settings/tokens)
 
 ---
 
