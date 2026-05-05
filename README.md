@@ -50,13 +50,3 @@ Edita `.env` y reemplaza el valor con tu token real:
 ```
 HF_TOKEN=hf_xxxxxxxxxxxxxxxxxxxx
 ```
-
----
-
-## Ejecutar los notebooks
-
-```bash
-jupyter notebook
-```
-
-Abre el notebook correspondiente desde la interfaz de Jupyter en tu navegador.
